@@ -1,2 +1,2 @@
-# Node-Js-Project
-Practice Node js basic and Project for that
+# Blog Node-Js-Project
+CRUD Blog Website
